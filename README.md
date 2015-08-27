@@ -12,3 +12,6 @@ In deze oefening gaan we **static** rows gebruiken in de UITableView.
 3. Configureer de UITableViewController in het storyboard. Gebruik hiervoor de attributes inspector.
 4. Voeg 1 sectie toe met 1 static row toe die een UIViewController **pusht**. Geef de sectie een geschikte naam.
 5. Voeg 1 sectie toe met 1 static row toe die een UIViewController **modaal** toont. Geef de sectie een geschikte naam.
+
+## Oplossing
+De oplossingen vind je terug onder de branch **oplossing** van deze repository.
