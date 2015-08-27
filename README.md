@@ -1,6 +1,6 @@
 # Oefening-UITableView-0
 
-In deze oefening gaan we **static** rows gebruiken in de UITableView.
+In deze oefening maak je gebruik van een **static** UITableView.
 
 ## Tips
 1. De UITableView configureer je vanuit het storyboard. Selecteer de UITableView en gebruik de **attributes inspector**.
