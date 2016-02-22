@@ -1,17 +1,17 @@
-# Oefening-UITableView-0
+# Exercise-UITableView-0
 
-In deze oefening maak je gebruik van een **static** UITableView.
+In this exercise you will learn to use a **static** UITableView.
 
 ## Tips
-1. De UITableView configureer je vanuit het storyboard. Selecteer de UITableView en gebruik de **attributes inspector**.
-2. Deze oefening kan je volledig in het storyboard maken.
+1. The UITableView is configured from the storyboard. Select the UITableView and use the **attributes inspector**.
+2. This exercise can be solved completely from the storyboard.
 
-## Opgaves
-1. Maak voor deze oefening zelf een nieuw project aan.
-2. Voeg een UITableViewController toe aan het storyboard.
-3. Configureer de UITableViewController in het storyboard. Gebruik hiervoor de attributes inspector.
-4. Voeg 1 sectie toe met 1 static row toe die een UIViewController **pusht**. Geef de sectie een geschikte naam.
-5. Voeg 1 sectie toe met 1 static row toe die een UIViewController **modaal** toont. Geef de sectie een geschikte naam.
+## Tasks
+1. Create a new project for this exercise.
+2. Add a UITableViewController to the storyboard.
+3. Configure this UITableViewController in het storyboard. Use the attributes inspector.
+4. Add 1 section with 1 static row that **pushes** a UIViewController. Give the section an appropriate name.
+5. Add 1 section with 1 static row that presents a UIViewController **modally**. Give the section an appropriate name.
 
-## Oplossing
-De oplossingen vind je terug onder de branch **oplossing** van deze repository.
+## Solutions
+The solutions are available in the **oplossing** branch of this repository.
